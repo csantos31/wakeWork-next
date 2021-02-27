@@ -38,6 +38,7 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
         clearTimeout(countdownTimeout);
         setIsActive(false);
         setHasFinished(false);
+        //change to 25 * 60
         setTime(0.1 * 60);
     }
 
