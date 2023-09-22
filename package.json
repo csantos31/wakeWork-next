@@ -6,7 +6,7 @@
     ".next/cache"
   ],
   "engines": {
-    "node": ">=10.0.0",
+    "node": ">=14.21.2",
     "npm": ">=6.0.0"
   },
   "scripts": {
@@ -24,7 +24,7 @@
     "css-loader": "^5.0.2",
     "js-cookie": "^3.0.5",
     "next": "10.0.7",
-    "react": "17.0.1",
+    "react": "^18.2.0",
     "react-dom": "17.0.1",
     "style-loader": "^2.0.0",
     "styled-components": "^5.2.1",
