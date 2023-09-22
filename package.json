@@ -6,7 +6,7 @@
     ".next/cache"
   ],
   "engines": {
-    "node": "18.18.0",
+    "node": "18.17.1",
     "npm": ">=6.0.0"
   },
   "scripts": {
