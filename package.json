@@ -5,6 +5,10 @@
   "cacheDirectories": [
     ".next/cache"
   ],
+  "engines": {
+    "node": ">=18.18.0",
+    "npm": ">=6.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,7 +17,7 @@
   },
   "dependencies": {
     "-": "0.0.1",
-    "@types/node": "^18.18.0",
+    "@types/node": "^14.14.31",
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
     "D": "^1.0.0",
